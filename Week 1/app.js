@@ -15,5 +15,5 @@ function printToConsole(){
 
 function addWrittenText(){
     let textToAdd = textArea.
-
+ 
 }
